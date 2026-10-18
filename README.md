@@ -10,7 +10,6 @@ Este espacio está dedicado a documentar mi aprendizaje, ejercicios prácticos, 
 * **Estudiante:** Isidro Jose Marmol Gonzalez
 * **Materia:** Programación II
 * **Institución:** Uru
-* **Contacto / LinkedIn:** [Enlace a tu perfil o correo]
 
 ---
 
@@ -26,18 +25,3 @@ El propósito de este repositorio es consolidar las competencias adquiridas en e
 * **Control de Versiones:** Git & GitHub
 * **IDE / Editor:** Visual Studio
 * **Compilador / Runtime:** GCC/G++
-
----
-
-## 🗂️ Estructura del Repositorio
-
-```text
-.
-├── 📂 Clases/             # Apuntes y códigos explicativos vistos en teoría
-├── 📂 Practicas/          # Ejercicios y guías resueltas
-│   ├── Practica_01/
-│   ├── Practica_02/
-│   └── ...
-├── 📂 Proyectos/          # Proyectos evaluativos principales
-├── 📂 Recursos/           # Documentación, diagramas UML y bibliografía
-└── README.md              # Presentación del repositorio
